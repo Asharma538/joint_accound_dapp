@@ -1,0 +1,4 @@
+solcx
+web3
+numpy
+matplotlib
